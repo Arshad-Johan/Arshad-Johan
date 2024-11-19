@@ -4,7 +4,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arshad-Johan) 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshad_johan_)
 
-const ArshadJohan = {
+
+```javascript
+const [Your Name] = {
   pronouns: "He" | "Him",
   code: ["Python", "C++", "HTML", "CSS", "JavaScript", "Java", "Bash"],
   platforms: ["Linux", "Windows"],
@@ -18,5 +20,4 @@ const ArshadJohan = {
     "MySQL Workbench"
   ],
   frameworks: ["Flask", "Node.js", "React", "Express.js", "Bootstrap"],
-};
-
+}
