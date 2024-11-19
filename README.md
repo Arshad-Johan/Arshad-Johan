@@ -1,13 +1,20 @@
-# Hi, I'm Arshad Johan! 👋
+<h1 align="center">Hi, I'm Arshad Johan! 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/arshad-johan-p-21a616248) 
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arshad-Johan) 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshad_johan_)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arshad-johan-p-21a616248">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 20px;">
+  </a>
+  <a href="https://github.com/Arshad-Johan">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" style="margin-right: 20px;">
+  </a>
+  <a href="https://x.com/arshad_johan_">
+    <img src="https://img.shields.io/badge/X-gray?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+</p>
 
 
 ```javascript
-const [Your Name] = {
-  pronouns: "He" | "Him",
+const [Arshad Johan] = {
   code: ["Python", "C++", "HTML", "CSS", "JavaScript", "Java", "Bash"],
   platforms: ["Linux", "Windows"],
   tools: [
@@ -20,4 +27,4 @@ const [Your Name] = {
     "MySQL Workbench"
   ],
   frameworks: ["Flask", "Node.js", "React", "Express.js", "Bootstrap"],
-}
+};
