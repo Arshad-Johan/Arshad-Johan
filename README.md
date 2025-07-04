@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arshad Johan! 👋</h1>
-<h3 align="center">Full Stack Enthusiast<br>Currently working in QZen-LLC</h3>
+<h3 align="center">AI/ML Enthusiast<br>Currently working in QZen-LLC</h3>
 
 
 ## 🌐 Socials:
