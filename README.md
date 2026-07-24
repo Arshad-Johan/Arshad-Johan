@@ -180,7 +180,7 @@ Built industrial monitoring systems with automated reporting pipelines and machi
 
 <p align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arshad-Johan&theme=tokyonight&no-frame=true&row=2&column=4)]
+<img src="https://github-profile-trophy.vercel.app/?username=Arshad-Johan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </p>
 
