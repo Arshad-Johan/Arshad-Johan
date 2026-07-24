@@ -176,16 +176,6 @@ Built industrial monitoring systems with automated reporting pipelines and machi
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arshad-Johan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</p>
-
----
-
 # Currently Working On
 
 ```text
@@ -233,4 +223,3 @@ If you find any of my projects interesting, feel free to explore them, open an i
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Arshad-Johan/Arshad-Johan/output/github-contribution-grid-snake.svg)
