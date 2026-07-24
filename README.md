@@ -15,8 +15,6 @@ Building scalable software, AI-powered products, and production-ready systems.
 
 ![](https://komarev.com/ghpvc/?username=Arshad-Johan&style=for-the-badge&color=blueviolet)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=27&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Foundation+Engineer+at+Qube;LLM+Researcher;Building+Production+Ready+Software;Always+Learning+Something+New)](https://git.io/typing-svg)
-
 </div>
 
 ---
